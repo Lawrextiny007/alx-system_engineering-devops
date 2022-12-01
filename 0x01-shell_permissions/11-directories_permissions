@@ -1,1 +1,2 @@
-directories
+#!bin/bash
+chmod -R+111 */
