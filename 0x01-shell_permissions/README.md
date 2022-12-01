@@ -1,1 +1,1 @@
-symbolic links
+owner and group
