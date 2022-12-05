@@ -1,1 +1,2 @@
-hell of fire
+#!/bin/bash
+cat /etc/passwd
